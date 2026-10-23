@@ -2,7 +2,7 @@
 
 The wallet with maximum security and privacy
 
-## /[click](../../../../click)
+### /[click](../../../../click)
 
 The browser extension for one-click wallet login
 
