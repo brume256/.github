@@ -2,14 +2,14 @@
 
 The wallet with maximum security and privacy
 
-## /[click](./click)
+## /[click](../../../../click)
 
 The browser extension for one-click wallet login
 
-### /[www](./www)
+### /[www](../../../../www)
 
 Our website
 
-### /[art](./art)
+### /[art](../../../../art)
 
 Our artworks
