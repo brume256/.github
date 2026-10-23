@@ -1,4 +1,4 @@
-### /[wallet2](./wallet2)
+### /[wallet2](../../../../wallet2)
 
 The wallet with maximum security and privacy
 
