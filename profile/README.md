@@ -1,11 +1,15 @@
-### /[wallet2](https://github.com/brumeproject/wallet2)
+### /[wallet2](./wallet2)
 
 The wallet with maximum security and privacy
 
-### /[www](https://github.com/brumeproject/www)
+## /[click](./click)
+
+The browser extension for one-click wallet login
+
+### /[www](./www)
 
 Our website
 
-### /[art](https://github.com/brumeproject/art)
+### /[art](./art)
 
 Our artworks
